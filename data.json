@@ -37,50 +37,1665 @@
         "username": "littlecat.bobo",
         "result": {
             "KOL": {
-                "Answer": "NO",
-                "Reasoning": "The profile has a relatively small number of followers (5.2K) and the posts seem to be personal rather than promotional. There's no indication of sponsored content or commercial partnerships."
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (20.3K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
             },
             "Pregnant/Kid under 3": {
                 "Answer": "YES",
-                "Reasoning": "The profile shows many images of a baby who appears to be under 1 year old. There are also posts about baby products and parenting experiences."
+                "Reasoning": "The profile often posts about food and family activities, and there are images of a young child, suggesting the presence of a child under the age of 3."
             },
             "Based in HK": {
                 "Answer": "YES",
-                "Reasoning": "The profile uses traditional Chinese characters and mentions Hong Kong locations in several posts. The content seems to be centered around Hong Kong lifestyle."
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, such as the '2025 Chinese New Year' post, which are typical characteristics of someone based in Hong Kong."
             }
         }
     },
     {
-        "username": "travel_with_amy",
+        "username": "bianca_rena_",
         "result": {
             "KOL": {
-                "Answer": "YES",
-                "Reasoning": "The profile has 45.7K followers and frequently posts travel content featuring hotels, destinations, and tagged travel brands. The bio states 'Travel Blogger | For collaborations, please DM'."
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot shows an error message indicating the page is not available, so no information about the profile can be analyzed."
             },
             "Pregnant/Kid under 3": {
-                "Answer": "NO",
-                "Reasoning": "There is no content related to pregnancy or young children in any of the posts or stories. The content focuses exclusively on solo and couple travel."
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot shows an error message indicating the page is not available, so no information about the profile can be analyzed."
             },
             "Based in HK": {
-                "Answer": "NO",
-                "Reasoning": "The profile mentions being based in Singapore in the bio. While there are occasional posts from Hong Kong, it's clear the person is not based there."
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot shows an error message indicating the page is not available, so no information about the profile can be analyzed."
             }
         }
     },
     {
-        "username": "mommydiaries_hk",
+        "username": "kamama.aiden",
         "result": {
             "KOL": {
                 "Answer": "YES",
-                "Reasoning": "With 18.2K followers and frequent collaborations with baby product brands, this account shows clear signs of being a Key Opinion Leader in the parenting niche."
+                "Reasoning": "The profile has a large number of followers (16.9K) and often posts about beauty and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
             },
             "Pregnant/Kid under 3": {
                 "Answer": "YES",
-                "Reasoning": "The account features daily updates about a toddler who appears to be about 2 years old, with frequent mentions of toddler milestones and parenting challenges."
+                "Reasoning": "The profile often posts about pregnancy and child care, which are typical characteristics of a pregnant woman or a mother. The images often show a toddler likely under 3 years old."
             },
             "Based in HK": {
                 "Answer": "YES",
-                "Reasoning": "The username contains 'hk' and the content frequently shows Hong Kong locations, playgrounds, and family-friendly spots around the city."
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The images show locations and events that are specific to Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "lazybusymum",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.2K) and posts about various topics including food, events, and products, which are typical characteristics of a KOL. The use of hashtags and mentions in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about family-related topics and includes images of a child, suggesting the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Chinese characters and references to Hong Kong locations and events further supports this."
+            }
+        }
+    },
+    {
+        "username": "heiman118w",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (22.5K) and posts frequently (1,646 posts). The biography includes hashtags related to blogging, beauty, and lifestyle, which are typical characteristics of a KOL. The profile also includes a link to a Facebook page, suggesting a focus on social media influence."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions '2 Kids' in the biography, indicating the presence of children. Several posts show a toddler, likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile includes hashtags related to Hong Kong (#hkkol, #hkbloger) and mentions 'HK' in the biography. Several posts also feature locations and events in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "yeung3kids",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (11.5K) and posts content related to children and family life, which are common themes for influencers. The use of hashtags and the mention of a Facebook page also suggest an effort to engage with an audience and build a social media presence."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts pictures of young children, likely under the age of 3, and the content focuses on children and family life. This suggests that the profile is either currently pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK' in the biography and posts content related to Hong Kong culture and landmarks, such as the 'LAI YUEN' sign and the 'CHEERS' building. This strongly suggests that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "babie.thea",
+        "result": {
+            "KOL": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile page is not available, so there is no information to determine if the profile is a KOL/influencer."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile page is not available, so there is no information to determine if the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile page is not available, so there is no information to determine if the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "asterw1222",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (11K) and posts content related to food reviews, beauty products, and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3. The content primarily focuses on food, beauty, and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK' in the biography and posts content related to Hong Kong lifestyle and culture, such as local food reviews and shopping experiences."
+            }
+        }
+    },
+    {
+        "username": "sasa_lo_baby",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (22.4K) and posts frequently (1,122 posts). The content is well-organized and visually appealing, suggesting a professional approach to social media. The biography includes a YouTube link and mentions collaborations, which are typical characteristics of a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about children's activities and locations suitable for young children. The images frequently feature a young child, likely under 3 years old, engaging in various activities."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions '\u9999\u6e2f' (Hong Kong) in the biography and frequently posts about locations and events in Hong Kong. The content is predominantly in Chinese, which is consistent with a Hong Kong-based profile."
+            }
+        }
+    },
+    {
+        "username": "t.ammy.c",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.6K) and often posts about lifestyle, fashion, and beauty products, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest pregnancy or a child under the age of 3. The images focus on lifestyle, fashion, and beauty products."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The text in the posts is primarily in Chinese, and there are references to Hong Kong-specific events and locations."
+            }
+        }
+    },
+    {
+        "username": "makiw3104",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.2K) and posts regularly about various topics such as modeling, hair, snacks, travel, and daily life, which are typical characteristics of a KOL. The use of multiple categories in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about children and child care, which are typical characteristics of a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong dollar (HK$) in the posts makes it likely that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "ivyivy1120",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (14.2K) and posts about various topics such as lifestyle, travel, beauty, and food. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, such as local food and events, which are typical characteristics of a Hong Konger."
+            }
+        }
+    },
+    {
+        "username": "gettingfatwcc",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (14.3K) and posts about various restaurants and food experiences, which are typical characteristics of a KOL. The use of a contact email in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile primarily posts about food and restaurants, with no visible content related to pregnancy or children under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile posts about various restaurants and locations in Hong Kong, such as 'Jiangsu Club' and 'The Enclave', indicating a strong connection to the city."
+            }
+        }
+    },
+    {
+        "username": "lee_tai_yin",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (11.9K) and posts about various lifestyle topics such as food, travel, and parenting. The use of hashtags like #lifestyle and the mention of exploring Canada suggest the profile is likely an influencer."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about parenting and shows images of a young child, indicating the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "NO",
+                "Reasoning": "The profile mentions exploring Canada and posts about Toronto, indicating the profile is based in Canada, not Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "iamsabrinalau",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (12.4K) and posts about various products and brands, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about pregnancy and child care, which are typical characteristics of a pregnant woman or a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The images show various locations and events in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "wendy.l_99",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (9,374) and posts regularly, which are typical characteristics of a KOL. The use of a personal blog link in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts or images that indicate pregnancy or a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile has posted about various locations such as Okinawa, Tokyo, and Taipei, but there is no clear indication that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "ashley_lovelybaby",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (10K) and often posts about various lifestyle topics such as fitness, travel, and family activities, which are typical characteristics of a KOL. The use of multiple categories in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile often posts about family activities and children, but the children in the images appear to be older than 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. However, there is no explicit indication of the profile being based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "brownbrowndafoodie",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (17.1K) and posts about food, beauty, and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts or images indicating pregnancy or a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, and mentions Hong Kong in the biography, which are typical characteristics of someone based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "eat_food_h.k_girl",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (32.9K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile name includes 'h.k.girl' and many posts are related to Hong Kong food and culture, suggesting the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "siufuma",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (18.4K) and posts about various lifestyle topics such as food, beauty, and travel. The use of DM in the biography suggests the profile is open to collaborations, which is typical for a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, such as traditional Chinese New Year decorations and local food. The language used in the posts is primarily Chinese, which supports the likelihood of being based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "ckcknokk",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (19.6K) and often posts about family activities, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about family activities and children, which are typical characteristics of a parent. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The text in the posts is in Chinese, and there are references to Hong Kong locations and events."
+            }
+        }
+    },
+    {
+        "username": "kennis_tse",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (17K) and often posts about beauty, lifestyle, and fashion, which are typical characteristics of a KOL. The use of a professional email in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile does not post about pregnancy or child care, and there are no images of a toddler or child under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, and the biography includes 'HK' which likely indicates the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "sugoi_blog",
+        "result": {
+            "KOL": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot does not provide any information about the profile's follower count, post content, or biography, which are necessary to determine if the profile is a KOL/influencer."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "There is no information available in the screenshot to determine if the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot does not provide any information about the profile's location or content that could indicate if the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "i.m.bobo",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (17.2K) and posts about various topics such as food, beauty, and lifestyle, which are typical characteristics of a KOL. The use of categories like Beauty, Foodie, Lifestyle, and Travel in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile does not explicitly mention pregnancy or having a child under 3. There are no images of a child or indications of pregnancy."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK' in the biography and posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger."
+            }
+        }
+    },
+    {
+        "username": "jaceysumsum",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (13K) and posts frequently (2,768 posts). The biography mentions various interests and activities such as parenting, food, lifestyle, cooking, and hotel experiences, which are typical characteristics of a KOL. The profile also includes a link to a personal website, suggesting a professional online presence."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about parenting and child care, as indicated by the biography mentioning 'Breastfeeding for 4 years'. The images frequently show young children, likely under the age of 3, engaging in various activities."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, as seen in the images showing locations and events in Hong Kong. The text in the images is primarily in Chinese, which is consistent with Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "bear._.suu",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (12.4K) and posts frequently about food, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no indications in the profile that the user is pregnant or has a child under the age of 3. The posts are primarily about food."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong flag in most of the posts makes it likely that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "no1.yanyan",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (10.2K) and often posts about lifestyle, fashion, and entrepreneurship, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile does not post about pregnancy or child care. The images do not show a toddler or any indication of having a child under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. However, there is no explicit indication that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "cowcow.diary",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (10.1K) and posts about various lifestyle topics such as food, cats, and beauty products. The use of hashtags and the mention of collaboration in the biography suggest the profile is looking for brand partnerships, which is typical of a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile does not post about pregnancy or children. Instead, it focuses on cats, food, and beauty products."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile mentions 'BLOGGER@HK' in the biography, which suggests a connection to Hong Kong. However, there is no definitive evidence in the posts or biography to confirm the profile's location."
+            }
+        }
+    },
+    {
+        "username": "eat_with_couple",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (23.8K) and often posts about food, beauty, lifestyle, and travel, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about pregnancy and child care, which are typical characteristics of a pregnant woman or a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The profile name and biography also mention Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "love_vv_hk",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (21.6K) and posts about various lifestyle topics such as food, beauty, and events. The biography includes hashtags like #hkkol, #hkblogger, and #hkfoodie, which are typical of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts or images that suggest pregnancy or a child under the age of 3. The images focus on lifestyle, food, and events."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile's username includes 'hk', and the biography mentions 'HK'. Many posts feature locations and events in Hong Kong, such as the fireworks display and various districts."
+            }
+        }
+    },
+    {
+        "username": "hungry_catss",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.4K) and often posts about lifestyle, beauty, and food, which are typical characteristics of a KOL. The use of a link in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about pregnancy and child care, which are typical characteristics of a pregnant woman or a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The text in the posts is in Chinese, and there are references to Hong Kong events and products."
+            }
+        }
+    },
+    {
+        "username": "hk_foodie_lifestyle",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (21.4K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There is no indication in the profile that the user is pregnant or has a child under the age of 3. The images primarily focus on food and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile name includes 'HK' and the posts often feature Hong Kong food and culture, suggesting the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "ava_abby_bb",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (12.5K) and often posts about daily life, children, and family activities, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about children and family activities. The images often show young children, likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The images show locations and activities that are common in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "wingchengmakeup",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (13.9K) and posts frequently (4,624 posts). The biography includes links to other social media platforms, suggesting a professional online presence. The content is diverse and engaging, typical of a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The images show a child who appears to be older than 3 years old. There are no indications of pregnancy or a very young child."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile includes images with Hong Kong elements, such as the double-decker bus and Hong Kong-style signage. The text in the posts is in Chinese, which is commonly used in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "weare_keiraluna",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (24.4K) and often posts about lifestyle, fashion, and family activities, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about children and family activities, and the images show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, such as Disneyland Hong Kong and local events, which are typical characteristics of a Hong Konger."
+            }
+        }
+    },
+    {
+        "username": "jane_jiran",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (11.2K) and often posts about fashion, lifestyle, and beauty products, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile does not post about pregnancy or child care, and there are no images of a toddler or child under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, and mentions 'Miss HK' in the biography, which are typical characteristics of a Hong Konger."
+            }
+        }
+    },
+    {
+        "username": "marshmallowbb_elodie",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.2K) and often posts about fashion, lifestyle, and products, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about pregnancy and child care, which are typical characteristics of a pregnant woman or a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong flag in most of the posts makes it likely that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "wendylam_",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (9,612) and describes itself as a photographer and content creator. The biography includes a call to action for photoshoots and collaborations, which is typical for a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile or posts that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile biography includes 'HK' which likely stands for Hong Kong, and several posts feature locations and signage that appear to be from Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "hoeat_duck",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (32.7K) and posts frequently about food, which are typical characteristics of a KOL. The use of multiple social media links and the mention of '\u5408\u4f5c' (collaboration) in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile posts exclusively about food and dining experiences, with no mention or indication of pregnancy or children."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong food and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong dollar (HKD) in the posts also suggests the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "hoeatplay.hk",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (16.7K) and posts about various food-related topics, which are typical characteristics of a KOL. The use of categories like 'Giveaway', 'Western', 'Asia', 'Dessert', 'Goods', and 'Drinks' suggests the profile is organized for content curation and promotion."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile posts exclusively about food and dining experiences, with no mention or indication of pregnancy or children."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile name includes '.hk' and mentions various Hong Kong restaurants and food items, indicating a strong connection to Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "f_photography22",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (16.6K) and posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts related to pregnancy or children under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile posts about food and lifestyle, which could be from anywhere. There is no specific indication that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "chloee_snowie",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (20.3K) and often posts about fashion, lifestyle, and modeling, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile posts about various locations, including Hong Kong, but also other places like London. There is no clear indication that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "winniekmt",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (14.7K) and posts frequently about food, shopping, and lifestyle, which are typical characteristics of a KOL. The use of multiple hashtags and the mention of 'OpenRice Lvl' in the biography suggest the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that the profile is pregnant or has a child under the age of 3. The images primarily focus on food and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'Hong Kong' in the biography and frequently posts about local food and places, which are typical characteristics of someone based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "foodie.sindy",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (40.4K) and often posts about food, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile posts are primarily about food and dining experiences, with no visible indications of pregnancy or children under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile posts are about food and dining experiences, which could be from anywhere. There are no specific indicators that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "eateateat_xd",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (13.9K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile does not post about pregnancy or child care. The images are primarily focused on food and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile posts about food and lifestyle, which could be from anywhere. There is no specific indication that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "gladysfoodie",
+        "result": {
+            "KOL": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot does not provide any information about the profile's follower count, post content, or biography, which are necessary to determine if the profile is a KOL/influencer."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "There is no information available in the screenshot to determine if the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot does not provide any information about the profile's location or content that could indicate if the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "weekendeateateat",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (13.2K) and posts frequently about food, which is typical for a food influencer. The use of multiple social media links and a contact email in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts or images related to pregnancy or young children. The content is primarily focused on food and dining experiences."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile includes a Hong Kong phone number in the biography, and many posts feature Hong Kong restaurants and food items. The content is also in Chinese, which is commonly used in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "bearb_dairy",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (16.8K) and posts about various products, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The images show various locations and products that are commonly found in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "elaine.eat",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (23.1K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "NO",
+                "Reasoning": "The profile often posts about food and lifestyle in Shenzhen, as indicated by the text in the posts. There are no clear indications that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "jen.jen_jennifer",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (13.5K) and posts regularly, which are typical characteristics of a KOL. The posts often feature lifestyle and fashion content, which are common themes for influencers."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3. The images primarily focus on lifestyle and fashion."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "Several posts feature locations and scenery that are recognizable as being in Hong Kong, such as the waterfront and urban landscapes."
+            }
+        }
+    },
+    {
+        "username": "germgermlife",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.3K) and often posts about food, lifestyle, and collaborations, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The text in the posts is in Chinese, and there are references to Hong Kong locations and food."
+            }
+        }
+    },
+    {
+        "username": "yuen_yin68",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.8K) and often posts about lifestyle, fashion, and food, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK blogger' in the biography, indicating a connection to Hong Kong. Additionally, some posts feature locations and brands that are associated with Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "henryaykk",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (12.2K) and posts frequently about food and lifestyle, which are typical characteristics of a KOL. The use of hashtags like #kol and the mention of collaborations in the biography suggest the profile is looking for brand partnerships."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no indications in the profile that the user is pregnant or has a child under the age of 3. The posts primarily focus on food and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong food and culture, and mentions 'Hong Kong' in the biography. The images show various Hong Kong restaurants and food items, suggesting the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "shadowccheung",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (14.6K) and posts frequently (2,189 posts). The content is diverse and includes food, beauty, and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indicators in the profile that suggest pregnancy or the presence of a child under the age of 3. The images primarily focus on food, beauty products, and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'hkf' in the biography, which likely stands for Hong Kong Foodie, indicating a connection to Hong Kong. Additionally, the food and lifestyle content appear to be consistent with Hong Kong culture."
+            }
+        }
+    },
+    {
+        "username": "bigmouthgirlife",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (21.1K) and posts frequently about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no indications in the profile that the user is pregnant or has a child under the age of 3. The posts primarily focus on food and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The text in the posts is in Chinese, and there are references to Hong Kong locations and cuisine."
+            }
+        }
+    },
+    {
+        "username": "cowcow2021",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (11.1K) and posts content related to beauty, lifestyle, and products, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile mentions 'HK' in the biography, which could indicate a connection to Hong Kong. However, there are no definitive posts that confirm the profile is currently based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "followmetoeatandplay",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (10.9K) and posts frequently (1,814 posts). The content includes travel, food, and lifestyle, which are typical characteristics of a KOL. The biography mentions 'Just for fun' and includes a link, suggesting potential collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no images or posts indicating pregnancy or a child under the age of 3. The content primarily focuses on travel, food, and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The biography includes a link with 'hk' in it, suggesting a connection to Hong Kong. However, the content also features various locations, making it unclear if the profile is specifically based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "chings_kitchen_",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (10.2K) and posts about food, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile posts about food and cooking, but there is no indication of pregnancy or children under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK' in the biography and posts about Hong Kong food and culture, which are typical characteristics of someone based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "pangggggggggggggg",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (46.3K) and posts frequently about food, which is typical for a food influencer. The biography includes a call for collaboration (DM), suggesting the profile is open to partnerships."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts or images related to pregnancy or young children. The focus is solely on food."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The biography mentions 'Based in HK,' and several posts feature Hong Kong-style cuisine and restaurants, indicating a strong connection to Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "62.loya",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (31.7K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts or images related to pregnancy or children under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong food and culture, which are typical characteristics of a Hong Konger. The profile name also includes 'HK' and there are multiple posts with 'Hong Kong' tags."
+            }
+        }
+    },
+    {
+        "username": "quincyma.life",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (30.3K) and posts frequently about various lifestyle topics, including food, beauty, and family activities. The use of DM in the biography suggests the profile is open to collaborations, which is typical for a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about family activities and includes images of a young child, suggesting the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile frequently mentions Hong Kong in posts and highlights locations and activities in Hong Kong, indicating a strong connection to the region."
+            }
+        }
+    },
+    {
+        "username": "hailiah27",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (21.4K) and often posts about various topics such as food, beauty, and events, which are typical characteristics of a KOL. The use of categories like KOL, FOOD, BEAUTY, TRAVEL, etc. in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about family and child care, which are typical characteristics of a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong flag in most of the posts makes it likely that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "lai_hung_winnie",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (16.5K) and posts often, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about family and child care, which are typical characteristics of a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The email address in the biography also includes '.hk', indicating a Hong Kong connection."
+            }
+        }
+    },
+    {
+        "username": "joyfood.joyjourney",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (17.5K) and posts about food reviews and promotions, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There is no indication in the profile or posts about pregnancy or children under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong restaurants and food culture, which are typical characteristics of someone based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "yandyhk",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (22.2K) and often posts about various lifestyle topics such as food, beauty, and entertainment, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3. The images primarily focus on food, beauty products, and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile mentions Hong Kong in the biography, but also mentions other locations such as Shenzhen and Japan. There is no clear indication that the profile is currently based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "ngatravelstagram",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.2K) and often posts about beauty and lifestyle products, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile posts about various locations such as Fukuoka and Kyoto, indicating travel. There is no clear indication that the profile is based in Hong Kong, although some posts may be in Chinese."
+            }
+        }
+    },
+    {
+        "username": "blackbeanhusky",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (17.2K) and posts regularly, which are typical characteristics of a KOL. The use of a Facebook link in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile posts exclusively about a husky dog and does not mention or show any children or pregnancy-related content."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile does not provide clear information about its location. While some posts have Hong Kong-related elements, there is no definitive evidence to confirm the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "suieleung",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (15.4K) and often posts about various lifestyle topics, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about motherhood and child care, which are typical characteristics of a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The biography also mentions Hong Kong brands and locations."
+            }
+        }
+    },
+    {
+        "username": "jk721.sharing",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (31.7K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK 852 Blogger HK' in the biography, which suggests a connection to Hong Kong. Additionally, the posts often feature Hong Kong restaurants and locations."
+            }
+        }
+    },
+    {
+        "username": "winnie20058",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (33.8K) and often posts about lifestyle, food, and events, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The images often show locations and events that are specific to Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "thaihk_spicy",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (21.6K) and often posts about various lifestyle topics such as travel, food, and events, which are typical characteristics of a KOL. The use of hashtags like #beautybloggers and #travelbloggers suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3. The images primarily focus on lifestyle, travel, and food."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. However, there are no definitive indicators confirming the profile's location."
+            }
+        }
+    },
+    {
+        "username": "desiree_dumbo",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (19.7K) and posts about various lifestyle topics, including food, entertainment, and family activities. The use of DM in the biography suggests the profile is open to collaborations, which is typical for a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about family activities and includes images of young children. The presence of a toddler in several posts suggests that the profile likely has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile frequently posts about Hong Kong-related topics, such as local events, attractions, and promotions. The language used in the posts is primarily Chinese, and there are references to Hong Kong-specific locations and activities."
+            }
+        }
+    },
+    {
+        "username": "foodloverin852",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (10.1K) and posts regularly about food, which is typical of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts or images related to pregnancy or children under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile name includes '852', which is the country code for Hong Kong. Additionally, many posts feature Hong Kong restaurants and cuisine."
+            }
+        }
+    },
+    {
+        "username": "eatalldayzz",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (14.3K) and posts frequently about food, dining experiences, and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indicators in the profile or posts that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong flag emojis in the biography and posts further supports this."
+            }
+        }
+    },
+    {
+        "username": "cherry_cc186",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (12.3K) and posts about various lifestyle topics such as food, beauty, and family activities, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about family activities and includes images of a young child, suggesting the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "NO",
+                "Reasoning": "The profile posts about locations in Shenzhen and other places, but there is no clear indication that the profile is based in Hong Kong. The mention of 'HK' in the biography could refer to a connection or interest in Hong Kong rather than a residence there."
+            }
+        }
+    },
+    {
+        "username": "vvkurashi",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (10.3K) and often posts about beauty and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. However, there are no definitive indicators confirming the location."
+            }
+        }
+    },
+    {
+        "username": "hody.wong",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (11.2K) and often posts about food, beauty, and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. However, there are no definitive indicators confirming the location."
+            }
+        }
+    },
+    {
+        "username": "cutebobotot",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (9,853) and posts content that includes product reviews and family activities, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about pregnancy and child care, which are typical characteristics of a pregnant woman or a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. However, there is no explicit indication of the profile being based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "queenqueen1226",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (30.9K) and often posts about lifestyle, beauty, and food, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about pregnancy and child care, which are typical characteristics of a pregnant woman or a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The images show locations and products that are specific to Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "travel_foodie_applee",
+        "result": {
+            "KOL": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile page is not available, so there is no information to determine if the profile is a KOL/influencer."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile page is not available, so there is no information to determine if the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile page is not available, so there is no information to determine if the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "monique.sou",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (24.1K) and often posts about photography and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about children and child care, which are typical characteristics of a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The biography also mentions 'HK female Photographer'."
+            }
+        }
+    },
+    {
+        "username": "vicky_in_her_wonderland",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (20.3K) and often posts about food, lifestyle, and events, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about children and child care, which are typical characteristics of a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong flag in most of the posts makes it likely that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "kayla.me.me",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (16.6K) and often posts about beauty, lifestyle, and food, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK Lifestyle Blogger' in the biography and posts about Hong Kong lifestyle and culture, which are typical characteristics of someone based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "nick_x_chloe",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (16.7K) and posts about various lifestyle topics such as beauty, food, and travel. The biography includes a call to action for collaborations, which is typical for a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications of pregnancy or young children in the profile's posts. The images focus on lifestyle, beauty, and food."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile posts about various locations and does not specifically indicate being based in Hong Kong. There are no clear indicators of a Hong Kong base."
+            }
+        }
+    },
+    {
+        "username": "katkat_life",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (16.5K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no posts or images related to pregnancy or children under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile often posts about food and lifestyle, which could be anywhere. There is no specific indication that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "dayday_lam_",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (14.7K) and often posts about various topics including beauty, fashion, food, and lifestyle. The use of DM in the biography suggests the profile is open to collaborations, which is typical for a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3. The images primarily focus on the individual and various lifestyle activities."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, such as local food and events. Additionally, the URL in the biography includes '.hk', which is the country code top-level domain (ccTLD) for Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "cowing_foodie",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (13.5K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, such as visiting Hong Kong attractions and trying local food, which are typical characteristics of someone based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "maisondejuillet",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (10.6K) and often posts about food, beauty, and travel, which are typical characteristics of a KOL. The use of hashtags like #foodie, #beauty, and #travel in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3. The images primarily focus on food, beauty, and travel."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong dollar (HKD) pricing in some posts and the mention of Hong Kong locations also suggest the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "shelywong",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (23.4K) and often posts about food, beauty, and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK' in the biography and many posts feature Hong Kong food and locations, suggesting the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "heimennnnnnnn",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (30.1K) and posts frequently about various topics including food, beauty, and lifestyle. The use of hashtags like #hkkol and #hkbeautyblogger in the biography suggests the profile is likely a KOL."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3. The posts primarily focus on food, beauty, and lifestyle."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile uses hashtags like #hkkol and #hkbeautyblogger, and some posts mention Hong Kong locations and culture, suggesting the profile is likely based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "princessbarbiexxo",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (21.3K) and posts frequently about food, beauty, and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions Hong Kong in the biography and the posts feature various restaurants and locations that appear to be in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "dusttobestar",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (16.1K) and posts frequently (1,391 posts). The content includes lifestyle, fashion, and beauty, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the posts that suggest the profile is pregnant or has a child under the age of 3. The images focus on lifestyle, fashion, and personal activities without any references to pregnancy or young children."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile mentions 'HK' in the biography and several posts feature locations and landmarks in Hong Kong, such as the Hong Kong skyline and local events. This suggests that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "nancyssssssssss",
+        "result": {
+            "KOL": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot does not provide any information about the profile's follower count, post content, or biography, which are necessary to determine if the profile is a KOL/influencer."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "There is no information available in the screenshot to determine if the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The screenshot does not provide any information about the profile's location or content that could indicate if the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "milky.wong",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (12.9K) and posts content related to beauty, lifestyle, and events, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There is no visible indication in the profile's posts or biography that suggests the profile is pregnant or has a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, such as the Mid-Autumn Festival event at AIA Vitality Park, which are typical characteristics of a Hong Konger."
+            }
+        }
+    },
+    {
+        "username": "tracccychung",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (13.5K) and posts regularly, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. However, there are no definitive indicators confirming the location."
+            }
+        }
+    },
+    {
+        "username": "missyfrugals.kitchen",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a significant number of followers (13.8K) and posts frequently (1,810 posts). The content is well-curated and visually appealing, often featuring lifestyle, food, and travel, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is open to collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3. The images primarily focus on lifestyle, food, and travel."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "While some posts feature locations that could be in Hong Kong, there is no definitive evidence to confirm the profile's base location. The content is too general to pinpoint a specific location."
+            }
+        }
+    },
+    {
+        "username": "hungry_bi",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (10.9K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no images or posts that suggest pregnancy or a child under the age of 3."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The images often show locations and restaurants in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "lalunegi",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (9,910) and often posts about fashion, lifestyle, and food, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There are no visible indications in the profile that suggest pregnancy or the presence of a child under the age of 3. The images primarily focus on fashion, lifestyle, and food."
+            },
+            "Based in HK": {
+                "Answer": "UNCERTAIN",
+                "Reasoning": "While some posts feature Hong Kong-related content, such as the cityscape and local cuisine, there is no definitive evidence to confirm the profile's base location as Hong Kong."
             }
         }
     }
