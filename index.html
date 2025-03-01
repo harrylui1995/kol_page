@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="KOL Profile Analyzer - View and filter KOL profiles based on various criteria">
+    <title>KOL Profile Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Preload data file for faster performance -->
+    <link rel="preload" href="data.json" as="fetch" crossorigin>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>KOL Profile Analyzer</h1>
+            <p class="subtitle">Analyze and filter Key Opinion Leader profiles based on various criteria</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="filters">
+            <h2>Filter Profiles</h2>
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label for="kol-filter">KOL</label>
+                    <select id="kol-filter">
+                        <option value="all">All</option>
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="kid-filter">Pregnant/Kid under 3</label>
+                    <select id="kid-filter">
+                        <option value="all">All</option>
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="hk-filter">Based in HK</label>
+                    <select id="hk-filter">
+                        <option value="all">All</option>
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
+                </div>
+                <button id="reset-filters" class="btn">Reset Filters</button>
+            </div>
+        </section>
+
+        <section class="stats">
+            <h2>Profile Statistics</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>Total Profiles</h3>
+                    <p id="total-count">0</p>
+                </div>
+                <div class="stat-card">
+                    <h3>KOL</h3>
+                    <p id="kol-count">0</p>
+                </div>
+                <div class="stat-card">
+                    <h3>With Kids under 3</h3>
+                    <p id="kid-count">0</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Based in HK</h3>
+                    <p id="hk-count">0</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="profiles">
+            <h2>Profiles <span id="filtered-count"></span></h2>
+            <div id="profile-list" class="profile-grid">
+                <!-- Profiles will be loaded here dynamically -->
+                <div class="loading">Loading profiles...</div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="current-year"></span> KOL Profile Analyzer. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Template for profile cards -->
+    <template id="profile-template">
+        <article class="profile-card">
+            <div class="profile-header">
+                <h3 class="username"></h3>
+            </div>
+            <div class="profile-body">
+                <div class="criteria">
+                    <div class="criteria-item kol">
+                        <h4>KOL</h4>
+                        <div class="answer"></div>
+                        <div class="reasoning"></div>
+                    </div>
+                    <div class="criteria-item kid">
+                        <h4>Pregnant/Kid under 3</h4>
+                        <div class="answer"></div>
+                        <div class="reasoning"></div>
+                    </div>
+                    <div class="criteria-item hk">
+                        <h4>Based in HK</h4>
+                        <div class="answer"></div>
+                        <div class="reasoning"></div>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </template>
+
+    <script src="main.js"></script>
+</body>
+</html>
