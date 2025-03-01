@@ -1,0 +1,87 @@
+[
+    {
+        "username": "honeybbhoneybbhoneybb",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (25.9K) and often posts about family activities, modeling, and collaborations, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about family activities and child care, which are typical characteristics of a mother. The images often show a toddler likely under 3 years old."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong lifestyle and culture, which are typical characteristics of a Hong Konger. The use of Hong Kong hashtags and mentions of Hong Kong locations in the posts makes it likely that the profile is based in Hong Kong."
+            }
+        }
+    },
+    {
+        "username": "eat.the.worlds",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has a large number of followers (23.4K) and often posts about food and lifestyle, which are typical characteristics of a KOL. The use of DM in the biography suggests the profile is looking for collaborations."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "The profile does not post about pregnancy or child care. The images are mostly about food and restaurants."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile often posts about Hong Kong restaurants and food, which are typical characteristics of a Hong Konger. The biography also mentions 'Hong Kong' as the location."
+            }
+        }
+    },
+    {
+        "username": "littlecat.bobo",
+        "result": {
+            "KOL": {
+                "Answer": "NO",
+                "Reasoning": "The profile has a relatively small number of followers (5.2K) and the posts seem to be personal rather than promotional. There's no indication of sponsored content or commercial partnerships."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The profile shows many images of a baby who appears to be under 1 year old. There are also posts about baby products and parenting experiences."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The profile uses traditional Chinese characters and mentions Hong Kong locations in several posts. The content seems to be centered around Hong Kong lifestyle."
+            }
+        }
+    },
+    {
+        "username": "travel_with_amy",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "The profile has 45.7K followers and frequently posts travel content featuring hotels, destinations, and tagged travel brands. The bio states 'Travel Blogger | For collaborations, please DM'."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "NO",
+                "Reasoning": "There is no content related to pregnancy or young children in any of the posts or stories. The content focuses exclusively on solo and couple travel."
+            },
+            "Based in HK": {
+                "Answer": "NO",
+                "Reasoning": "The profile mentions being based in Singapore in the bio. While there are occasional posts from Hong Kong, it's clear the person is not based there."
+            }
+        }
+    },
+    {
+        "username": "mommydiaries_hk",
+        "result": {
+            "KOL": {
+                "Answer": "YES",
+                "Reasoning": "With 18.2K followers and frequent collaborations with baby product brands, this account shows clear signs of being a Key Opinion Leader in the parenting niche."
+            },
+            "Pregnant/Kid under 3": {
+                "Answer": "YES",
+                "Reasoning": "The account features daily updates about a toddler who appears to be about 2 years old, with frequent mentions of toddler milestones and parenting challenges."
+            },
+            "Based in HK": {
+                "Answer": "YES",
+                "Reasoning": "The username contains 'hk' and the content frequently shows Hong Kong locations, playgrounds, and family-friendly spots around the city."
+            }
+        }
+    }
+]
